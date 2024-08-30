@@ -1,0 +1,48 @@
+body {
+  background-image: url('https://anthonysmoak.com/wp-content/uploads/2016/03/sql2.png?w=1200');
+  background-size: cover;
+  background-repeat: no-repeat;
+    font-family: sans-serif;
+    margin-top: 50px;
+    color: yellow;
+    background-color: #fafafa;
+    border: 1px solid #ccc;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  
+  .table {
+    background-color: transparent;
+    margin-top: 20px;
+    border: 1px solid #bbafaf;
+  }
+  
+  .table th,
+  .table td {
+    padding: 10px;
+    background-color: transparent;
+    color: yellow;
+  }
+  
+  .widget {
+    border: 1px solid #bbafaf;
+    padding: 20px;
+  }
+  
+  .message {
+    background-color: #fcfcfc;
+    border: 1px solid #ddd;
+    padding: 10px;
+    color: black;
+  }
